@@ -14,17 +14,17 @@
 | Jan 19th, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 1. Introduction and Overview | [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf) | [Pre-meetup questions](https://docs.google.com/document/d/11hFgwuqri7zTDrBQKFcVpmERMVMafEn5FyCpWNU4HCw/edit?usp=sharing)  | [Note](https://scarlet-message-9c2.notion.site/Chap-1-Intro-Overview-7a6c3584ff724a5b80a71a33ec7b0149) | TBD       |
 | Jan 26th, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 2. B-Tree Basics | TBD | TBD  | [Note](https://scarlet-message-9c2.notion.site/Chap-2-B-Tree-Basics-d54836310a1b4a52b4fddc1302ddd812) | TBD       |
 | Feb 2nd, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 3. File Formats | TBD | TBD  | TBD| TBD       |
-| Feb 2nd, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 4. Implementing B-Trees | TBD | TBD  | TBD| TBD       |
-| Feb 9th, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 5. Transaction Processing and Recovery | TBD | TBD  | TBD| TBD       |
-| Feb 16th, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 6. B-Tree Variants | TBD | TBD  | TBD| TBD       |
-| Feb 23rd, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 7. Log-Structured Storage | TBD | TBD  | TBD| TBD       |
-| Mar 2nd, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 8. Distributed Systems Intro & Overview | TBD | TBD  | TBD| TBD       |
-| Mar 16th, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 9. Failure Detection | TBD | TBD  | TBD| TBD       |
-| Mar 23th, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 10. Leader Election | TBD | TBD  | TBD| TBD       |
-| Mar 30th, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 11. Replication and Consistency | TBD | TBD  | TBD| TBD       |
-| Apr 6th, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 12. Anti-Entropy and Dissemination | TBD | TBD  | TBD| TBD       |
-| Apr 13rd, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 13. Distributed Transactions | TBD | TBD  | TBD| TBD       |
-| Apr 20th, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 14. Consensus | TBD | TBD  | TBD| TBD       |
+| Feb 9nd, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 4. Implementing B-Trees | TBD | TBD  | TBD| TBD       |
+| Feb 16th, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 5. Transaction Processing and Recovery | TBD | TBD  | TBD| TBD       |
+| Feb 23rd, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 6. B-Tree Variants | TBD | TBD  | TBD| TBD       |
+| Mar 2nd, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 7. Log-Structured Storage | TBD | TBD  | TBD| TBD       |
+| Mar 16th, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 8. Distributed Systems Intro & Overview | TBD | TBD  | TBD| TBD       |
+| Mar 23th, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 9. Failure Detection | TBD | TBD  | TBD| TBD       |
+| Mar 30th, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 10. Leader Election | TBD | TBD  | TBD| TBD       |
+| Apr 6th, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 11. Replication and Consistency | TBD | TBD  | TBD| TBD       |
+| Apr 13rd, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 12. Anti-Entropy and Dissemination | TBD | TBD  | TBD| TBD       |
+| Apr 20th, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 13. Distributed Transactions | TBD | TBD  | TBD| TBD       |
+| Apr 27th, 2022: 4:00pm PST, [Zoom](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | 14. Consensus | TBD | TBD  | TBD| TBD       |
 
 ### Notes 📝
 Check out the Notion database: https://www.notion.so/f386fbab65c0419eb117c5c3a3569d7c?v=9e488e34e5fa4fa8ace99f1022060436
