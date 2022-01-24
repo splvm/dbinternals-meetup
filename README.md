@@ -34,7 +34,7 @@ Check out the Notion database: https://www.notion.so/f386fbab65c0419eb117c5c3a35
 ### Miscellaneous 🏂
 1. [John Ousterhout's Hints for Reviewing Papers](https://people.eecs.berkeley.edu/~fox/paper_writing.html#rev)
 1. [MIT 6.824 Course](http://nil.csail.mit.edu/6.824/2020/schedule.html)
-1. [MSFT System Meetup Phase 1: Distributed Systems](https://microsoft-distributed-system-meetup.github.io/home/)
+1. [MSFT System Meetup Phase 1: Distributed Systems](https://microsoft-distributed-system-meetup.github.io/distsys-meetup)
 2. [MSFT System Meetup Phase 1: YouTube playlist recordings](https://www.youtube.com/playlist?list=PL1voNxn5MODMJxAZVvgFHZ0jZ-fuSut68)
 3. [Mossaka's DDIA talks](https://youtube.com/playlist?list=PL1voNxn5MODMbejDv7Q3OM9yIZmfTY4qf)
 4. [Mossaka's DDIA notes](https://www.notion.so/47922a32f98148e2af4d1c0c37a15f52?v=5063b00ed0624a9db71175b50084bfc1)
