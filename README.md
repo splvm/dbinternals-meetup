@@ -6,7 +6,7 @@
 
 ### Important Links 🔗
 - [Note](https://scarlet-message-9c2.notion.site/f386fbab65c0419eb117c5c3a3569d7c?v=9e488e34e5fa4fa8ace99f1022060436) 
-- [SPLVM Database-Meetup](https://microsoft-distributed-system-meetup.github.io/database-meetup/)
+- [SPLVM Database-Meetup](https://splvm.github.io/database-meetup/)
 - [YouTube(coming soon)](https://www.youtube.com/c/MossakaLvZ)
 - [Slack channel (Chinese & English)](https://join.slack.com/t/splvm/shared_invite/zt-11c7tkyoy-gNOtZWwSZsE2UFOtXBw2Wg)
 
